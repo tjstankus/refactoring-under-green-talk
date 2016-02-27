@@ -20,6 +20,10 @@ Quotes look great in our themes. Here’s how they work.
 
 ---
 
+![](images/chase-red.gif)
+
+---
+
 Katrina, Sandi
 
 ---
